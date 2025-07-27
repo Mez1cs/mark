@@ -29,7 +29,6 @@ color:rgb(11, 92, 95);
 }
 .box 
 {
-    background-color: rgba(0, 0, 0, 0.671);
-    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.671)
     border:dashed;
 }
